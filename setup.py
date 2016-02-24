@@ -9,9 +9,9 @@ setup(
     description="Helpful tools for Python",
     author='Cal Leeming',
     author_email='cal@iops.io',
-    url='https://github.com/imsofly/helpful',
+    url='https://github.com/imsofly/python-helpful',
     keywords=['helpful', 'useful'],
-    version="0.8.0",
+    version="0.8.1",
     py_modules=['helpful'],
     setup_requires=[
         'pytest-runner>=2.6',
